@@ -5,6 +5,15 @@ Tutorials and Resources to become an AI Engineer 2025
 
 > Artificial intelligence engineers are individuals who use AI and machine learning techniques to develop applications and systems that can help organizations increase efficiency, cut costs, increase profits, and make better business decisions. 
 
+# Prerequisite 
+
+Frontend, Backend or Full-stack (one of these)
+
+# Topics
+
+- [x] What is AI ?
+- [x] [AI vs Machine Learning](https://www.youtube.com/watch?v=4RixMPF4xis)
+
 # Links
 
 1. [What is an AI Engineer ? And How to Become one](https://www.coursera.org/articles/ai-engineer)
