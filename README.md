@@ -13,8 +13,12 @@ Frontend, Backend or Full-stack (one of these)
 
 - [x] What is AI ?
 - [x] [AI vs Machine Learning](https://www.youtube.com/watch?v=4RixMPF4xis)
+- [x] [AI in Product Development - includes Use cases](https://www.virtasant.com/ai-today/ai-in-product-development-netflix-bmw)
+- [x] [Roles & Responsibility of AI Engineer](https://resources.workable.com/ai-engineer-job-description)
+- [ ] 
 
-# Links
+# Resources
 
 1. [What is an AI Engineer ? And How to Become one](https://www.coursera.org/articles/ai-engineer)
 2. [AI Engineer Roadmap](https://roadmap.sh/ai-engineer)
+3. [AI Engineers : What they do and how to become one](https://www.techtarget.com/whatis/feature/How-to-become-an-artificial-intelligence-engineer)
