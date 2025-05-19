@@ -16,6 +16,7 @@ Frontend, Backend or Full-stack (one of these)
 - [x] [AI in Product Development - includes Use cases](https://www.virtasant.com/ai-today/ai-in-product-development-netflix-bmw)
 - [x] [Roles & Responsibility of AI Engineer](https://resources.workable.com/ai-engineer-job-description)
 - [x] [AI vs AGI](https://aws.amazon.com/what-is/artificial-general-intelligence/)
+- [x] [LLMs](https://www.cloudflare.com/en-gb/learning/ai/what-is-large-language-model/)
 
 # Resources
 
