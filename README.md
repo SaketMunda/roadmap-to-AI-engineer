@@ -18,6 +18,7 @@ Frontend, Backend or Full-stack (one of these)
 - [x] [AI vs AGI](https://aws.amazon.com/what-is/artificial-general-intelligence/)
 - [x] [LLMs](https://www.cloudflare.com/en-gb/learning/ai/what-is-large-language-model/), [LLMs - Everything you need to know](https://www.youtube.com/watch?v=osKyvYJ3PRM)
 - [x] Inference, Training
+- [x] [Embeddings](https://www.cloudflare.com/en-gb/learning/ai/what-are-embeddings/)
 
 # Resources
 
