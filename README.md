@@ -19,6 +19,7 @@ Frontend, Backend or Full-stack (one of these)
 - [x] [LLMs](https://www.cloudflare.com/en-gb/learning/ai/what-is-large-language-model/), [LLMs - Everything you need to know](https://www.youtube.com/watch?v=osKyvYJ3PRM)
 - [x] Inference, Training
 - [x] [Embeddings](https://www.cloudflare.com/en-gb/learning/ai/what-are-embeddings/)
+- [x] Vector Databases 
 
 # Resources
 
